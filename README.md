@@ -32,8 +32,7 @@
 
 <h3> Task 2 - Merge STT, TTS and IBM Watson Assistant </h3>
 
-<p> Allowing the chatbot to respond (check transcribe.py for details) </p>
-
+<p> Allowing the chatbot to respond (check <a href="transcribe.py">transcribe.py</a> for details) </p>
 
 <h3> Task 3 - Reduce delay times between previous services </h3>
 
