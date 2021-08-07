@@ -36,5 +36,6 @@
 
 <h3> Task 3 - Reduce delay times between previous services </h3>
 
+<p> Response times are acceptable </p> 
 
 
